@@ -1,0 +1,13 @@
+{
+  "header" : {
+    "metadata" : {
+      "installed" : "NO",
+      "release" : "T24202003"
+    },
+    "dsfApiAction" : "Delete",
+    "dsfApiType" : "ENQUIRY",
+    "id" : "DRILL.TEST.1",
+    "dsfApiPhase" : "post",
+    "dsfApiComponent" : "t24data"
+  }
+}
